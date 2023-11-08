@@ -1,0 +1,30 @@
+.display{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+label{
+    margin-bottom: 20px;
+    font-weight: bold;
+}
+
+input{
+    width: 20vw;
+    height: 3vh;
+}
+
+button{
+    margin-top: 10px;
+    border: none;
+    border-radius: 5px;
+    background-color: rgb(27, 127, 240);
+    padding: 10px;
+    color: #ffffff;
+}
+
+p{
+    font-weight: bolder;
+    font-size:x-large;
+}
